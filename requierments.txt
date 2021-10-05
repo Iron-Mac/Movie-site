@@ -1,0 +1,12 @@
+aiofiles==0.7.0
+asgiref==3.4.1
+click==8.0.1
+fastapi==0.68.1
+fastapi-jinja @ git+https://github.com/ageekinside/fastapi-jinja@416508240e3485ed58e2f10735b0d6ce5d7ba4a0
+h11==0.12.0
+Jinja2==3.0.2
+MarkupSafe==2.0.1
+pydantic==1.8.2
+starlette==0.14.2
+typing-extensions==3.10.0.2
+uvicorn==0.15.0
